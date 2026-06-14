@@ -3,20 +3,29 @@
     <channel>
         <title>JamoMoa</title>
         <item>
+            <title>0.9.15</title>
+            <pubDate>Sun, 14 Jun 2026 14:51:02 +0900</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.9.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://jamomoa-updates.hobbyworker.me/releases/JamoMoa-0.9.15.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.15/JamoMoa-0.9.15.dmg" length="3210272" type="application/octet-stream" sparkle:edSignature="Ir4vrpamY9rXKTiyRxcD2NfFoVt1k4NOhJHaqXS4PkR+CdU8X7PR7KBOIPCiI2DwU41J4WFlvBPnCtPeufmSBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.15/JamoMoa15-14.delta" sparkle:deltaFrom="14" length="1196466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aBmfw/YG07lVFYxzis4wnL3x722W0TQtPHKLI2NboJLtJSCoyc2Gk/kRpUwIyaxG1Qzz5qo/YJM4SSgqOSl9Ag=="/>
+                <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.15/JamoMoa15-13.delta" sparkle:deltaFrom="13" length="1200154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MHZc+EqxPD/Oz7mMTHYaI8KCg8fKd64QFdLKHm/e2vpDKuEKYX29RuCqLugvHTueENrnsZzmReId5rL+CgeZCw=="/>
+                <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.15/JamoMoa15-12.delta" sparkle:deltaFrom="12" length="1287030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MLb9CT2fR9M46762qoWbqq4LA4N0P5yiqhjL+B4iwKEFF+OFuxgH8Hh78CCZZCyRB/nrwHHXLTzPK5XbKProBg=="/>
+                <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.15/JamoMoa15-11.delta" sparkle:deltaFrom="11" length="1290530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="A4hARIrkhn7NQK3FiAMQqZFAk9zyhyknUUyCcqEOSaYxAmxhWe05zUoTBqqB4dqR+hkOarlQWxM9RfeXg/6vAA=="/>
+                <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.15/JamoMoa15-10.delta" sparkle:deltaFrom="10" length="1334066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G/8jARHPb5ZLUZQiJs9skYUZebtoPWNtog+eXzeb/jIHzqjpM+S+ybPOLUmzHimvhpcf3ELB5tbPEi8QayzMDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.14</title>
             <pubDate>Mon, 01 Jun 2026 17:46:41 +0900</pubDate>
             <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>0.9.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://jamomoa-updates.hobbyworker.me/releases/JamoMoa-0.9.14.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.14/JamoMoa-0.9.14.dmg" length="1691273" type="application/octet-stream" sparkle:edSignature="V4Di8QkkWtUb4q9ZZozuf8U6yjpx5p2iE2UQA79VxzE9szMkgFMyteD8kfbxCk+9cqMmHX8lxYTusqEARk2GBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.14/JamoMoa14-13.delta" sparkle:deltaFrom="13" length="102826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nSfkhtGzdzNPSaqXkHV7Iz5iFPKdEWZynrQerVY6a0X+QmGQ+7gKqGCa/mYudYmSQJ5PjaMQ3SLaCOjxjkCQCw=="/>
-                <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.14/JamoMoa14-12.delta" sparkle:deltaFrom="12" length="269322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NSkGBwgvOd3RcVUKj7/+iDzpopSmu/whG/IyN1acwkuDYgkS0MSiMLO/K0HLF6I3Xj7TaozIz3EmNgoYG/EhBQ=="/>
-                <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.14/JamoMoa14-11.delta" sparkle:deltaFrom="11" length="275674" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fKa0ELeCB0qNNbuamoIVEOgtB6/LK9mfHyThTgTRLu5uimX9qHJPBon9hQNvv0BtGVPX9G4TqYDF8H0S67SkCQ=="/>
-                <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.14/JamoMoa14-10.delta" sparkle:deltaFrom="10" length="331742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kqFUUzUjvw3VFHrH1MKCVsxvhXScrpA9FJ7kjlPlpqELoYkU+X8Z5dBxY6HaCtx5N+IURzxdIYE9ugF4aKMuCw=="/>
-                <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.14/JamoMoa14-9.delta" sparkle:deltaFrom="9" length="336510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="08GS1YK8qu/bdXkIkd5eZj4DiavrLFeFU8+jMqFhHlNhzZyQ693eiVxbOE+ABJMoxNPvTT6dZUUar9MJIFA5Dw=="/>
-            </sparkle:deltas>
+            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.15/JamoMoa-0.9.14.dmg" length="1691273" type="application/octet-stream" sparkle:edSignature="V4Di8QkkWtUb4q9ZZozuf8U6yjpx5p2iE2UQA79VxzE9szMkgFMyteD8kfbxCk+9cqMmHX8lxYTusqEARk2GBA=="/>
         </item>
         <item>
             <title>0.9.13</title>
@@ -25,16 +34,7 @@
             <sparkle:shortVersionString>0.9.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://jamomoa-updates.hobbyworker.me/releases/JamoMoa-0.9.13.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.14/JamoMoa-0.9.13.dmg" length="1688493" type="application/octet-stream" sparkle:edSignature="27WMhv8+TNplmcvoZ3rr85tVIe8c8hkKiJjfxiyv+LemWPQEGKb0vbwxGKotKAfdCLoAfZX+6s0Pdxsj6uMIAA=="/>
-        </item>
-        <item>
-            <title>0.9.12</title>
-            <pubDate>Thu, 28 May 2026 10:35:46 +0900</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.9.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://jamomoa-updates.hobbyworker.me/releases/JamoMoa-0.9.12.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.14/JamoMoa-0.9.12.dmg" length="1595279" type="application/octet-stream" sparkle:edSignature="q5IgA4Z2nChsz4IUejSBhE26vVNazZznUimovI5YCcdOiw2Fakho6vvfrC9YoWot7mNQ6Ez4/qEuMTPACKcFDQ=="/>
+            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.15/JamoMoa-0.9.13.dmg" length="1688493" type="application/octet-stream" sparkle:edSignature="27WMhv8+TNplmcvoZ3rr85tVIe8c8hkKiJjfxiyv+LemWPQEGKb0vbwxGKotKAfdCLoAfZX+6s0Pdxsj6uMIAA=="/>
         </item>
     </channel>
 </rss>
