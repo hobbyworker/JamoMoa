@@ -1,0 +1,67 @@
+JamoMoa — Terms of Use
+자모모아 — 사용 조건
+
+Copyright (c) 2026 hobbyworker (취미생활자). All rights reserved.
+
+JamoMoa is proprietary software. The source code is not public and is not
+licensed to you. This document covers the compiled application distributed
+from this repository and from https://jamomoa.hobbyworker.me
+
+
+YOU MAY
+
+  - Download, install and use JamoMoa free of charge, for personal or
+    commercial purposes, on any number of computers you own or control.
+  - Keep using it indefinitely. There is no trial period, no license key,
+    and no feature is withheld from anyone. Donations are voluntary and
+    grant no additional rights or functionality.
+
+
+YOU MAY NOT
+
+  - Redistribute, sell, rent, sublicense, or host copies of the
+    application, whether modified or not.
+  - Bundle it with another product or service.
+  - Modify, decompile, disassemble or reverse engineer the application,
+    except to the extent that such a restriction is prohibited by
+    applicable law.
+
+
+NO WARRANTY
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+  OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+  IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+  DEALINGS IN THE SOFTWARE.
+
+  JamoMoa renames files on your disk. It shows you exactly what it will
+  rename before doing anything, and it never deletes files. Even so, you
+  are responsible for your own backups.
+
+
+THIRD-PARTY COMPONENTS
+
+  The application bundles open-source components distributed under their
+  own licenses, which are reproduced in full inside the app under
+  Settings > About > View Licenses (설정 > 정보 > 라이센스 보기):
+
+    - Sparkle             MIT License
+    - KeyboardShortcuts   MIT License
+
+  Nothing in this document limits the rights those licenses grant you in
+  respect of those components.
+
+
+한국어 요약 (참고용 — 위 영문이 정본입니다)
+
+  자모모아는 비공개 소프트웨어이며 소스 코드는 공개되지 않습니다.
+  본인이 소유하거나 관리하는 컴퓨터에서 개인·상업 목적 모두 무료로,
+  기간 제한 없이 사용하실 수 있습니다. 기부는 자발적이며 어떠한 추가
+  권리나 기능도 부여하지 않습니다.
+  다만 애플리케이션을 재배포·판매·재라이선스하거나, 다른 제품에 끼워
+  배포하거나, 역공학하는 것은 허용되지 않습니다(법률이 그러한 제한을
+  금지하는 범위는 제외).
+  이 소프트웨어는 어떠한 보증도 없이 "있는 그대로" 제공됩니다.
